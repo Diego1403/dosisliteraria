@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1035469437089",
+    "firebase_url": "https://example-url.firebaseio.com",
+    "project_id": "mydemoapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035469437089:android:73a4fb8297b2cd4f",
+        "android_client_info": {
+          "package_name": "com.dosisliteraria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337894902146-e4uksm38sne0bqrj6uvkbo4oiu4hvigl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzbSyCILMsOuUKwN3qhtxrPq7FFemDJUAXTyZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337894902146-e4uksm38sne0bqrj6uvkbo4oiu4hvigl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337894902146-e4uksm38sne0bqrj6uvkbo4oiu4hvigl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mydemoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
